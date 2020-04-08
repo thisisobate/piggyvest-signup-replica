@@ -5,6 +5,7 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, 'system-ui', 'Segoe UI',
     Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji',
     /* Emojis*/ 'Segoe UI Emoji', /* Emojis*/ 'Segoe UI Symbol'; /* Emojis*/
+  color: #fff;
 }
 
 .bg-img {
