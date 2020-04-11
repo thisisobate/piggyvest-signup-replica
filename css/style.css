@@ -26,6 +26,7 @@ body {
   flex-direction: column;
   display: flex;
   background-color: #062863;
+  background-attachment: fixed;
 }
 
 .textbox {
@@ -88,7 +89,8 @@ form {
 }
 
 .logo {
-  margin-top: 40px;
+  margin-top: 50px;
+  margin-bottom: 38px;
 }
 
 h1 {
@@ -116,12 +118,12 @@ header > p {
 }
 
 @media (max-width: 600px) {
-  .bg-img {
-    width: 100vw;
-  }
-
   input {
     width: 90%;
+  }
+
+  .form {
+    margin: 18px;
   }
 
   select {
