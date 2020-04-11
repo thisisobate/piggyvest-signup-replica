@@ -114,3 +114,32 @@ header > p {
   text-decoration: none;
   font-size: 14px;
 }
+
+@media (max-width: 600px) {
+  .bg-img {
+    width: 100vw;
+  }
+
+  input {
+    width: 90%;
+  }
+
+  select {
+    width: 100%;
+  }
+
+  button {
+    width: 100%;
+  }
+  .bg-img {
+    align-items: unset;
+  }
+
+  .logo_link {
+    margin: 0 auto;
+  }
+
+  .already_login {
+    text-align: center;
+  }
+}
