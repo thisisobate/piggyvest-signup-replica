@@ -1,3 +1,3 @@
 # piggyvest-signup-replica
 
-visit the website[https://thisisobate.github.io/piggyvest-signup-replica/]
+Link to [live](https://thisisobate.github.io/piggyvest-signup-replica/)
